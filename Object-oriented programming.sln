@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class and Struct", "Class a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.3", "..\6.3\6.3\6.3.csproj", "{F876CF5C-9C35-4674-9FA4-A507E8872F09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.6.1_TrafficLight", "6.6.1_TrafficLight\6.6.1_TrafficLight.csproj", "{943670BE-7CC0-49B9-95A2-E3B0DA441240}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F876CF5C-9C35-4674-9FA4-A507E8872F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F876CF5C-9C35-4674-9FA4-A507E8872F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F876CF5C-9C35-4674-9FA4-A507E8872F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{943670BE-7CC0-49B9-95A2-E3B0DA441240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943670BE-7CC0-49B9-95A2-E3B0DA441240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943670BE-7CC0-49B9-95A2-E3B0DA441240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943670BE-7CC0-49B9-95A2-E3B0DA441240}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
